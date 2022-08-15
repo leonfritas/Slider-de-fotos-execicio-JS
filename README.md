@@ -4,4 +4,5 @@
 
 <p><strong>Feito com HTML, CSS e Javascript.</strong></p>
 
-[<img src="slider-de-fotos.gif" alt="Gifslider">]
+![slider-de-fotos](https://user-images.githubusercontent.com/102994125/184657786-b04c3cca-535b-453d-8f38-47eb526324ae.gif)
+
